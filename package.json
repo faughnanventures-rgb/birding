@@ -1,0 +1,19 @@
+{
+  "name": "traveling-birder",
+  "version": "8.0.0",
+  "description": "Birding trip planner with eBird integration",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build required'",
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^3.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
